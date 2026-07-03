@@ -1,0 +1,1 @@
+# Adaptive-Pedestrian-Navigation-Simulator-using-Variable-Goal-Algorithm-and-Unified-Power-Law
